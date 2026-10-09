@@ -66,9 +66,9 @@ Follow the Expo CLI instructions to run the app on a compatible device or emulat
 
 ## Project Roadmap
 
-* [ ] Set up the Expo project and navigation.
-* [ ] Build the Stories screen using mock data.
-* [ ] Build the DM inbox using mock data.
+* [X] Set up the Expo project and navigation.
+* [X] Build the Stories screen using mock data.
+* [X] Build the DM inbox using mock data.
 * [ ] Create the restricted-content screen.
 * [ ] Implement timed unlocking and daily usage limits.
 * [ ] Persist timer state locally.
